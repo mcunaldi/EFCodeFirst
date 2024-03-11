@@ -1,0 +1,17 @@
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\bin\Debug\net8.0\EFCodeFirst.DataAccess.deps.json
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\bin\Debug\net8.0\EFCodeFirst.DataAccess.runtimeconfig.json
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\bin\Debug\net8.0\EFCodeFirst.DataAccess.dll
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\bin\Debug\net8.0\EFCodeFirst.DataAccess.pdb
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\bin\Debug\net8.0\EFCodeFirst.Entities.dll
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\bin\Debug\net8.0\EFCodeFirst.Entities.pdb
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFirst.DataAccess.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFirst.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFirst.DataAccess.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFirst.DataAccess.AssemblyInfo.cs
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFirst.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFi.1A5FB36B.Up2Date
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFirst.DataAccess.dll
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\refint\EFCodeFirst.DataAccess.dll
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFirst.DataAccess.pdb
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\EFCodeFirst.DataAccess.genruntimeconfig.cache
+C:\Users\W10\Desktop\GITHUB\EFCodeFirst\EFCodeFirst.DataAccess\obj\Debug\net8.0\ref\EFCodeFirst.DataAccess.dll
